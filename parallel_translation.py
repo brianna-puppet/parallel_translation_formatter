@@ -442,8 +442,6 @@ def generate_latex(title, author, left_dialogues, right_dialogues):
 
 \maketitle
 
-\section
-
 \begin{Parallel}{0.48\textwidth}{0.48\textwidth}
 """
 
